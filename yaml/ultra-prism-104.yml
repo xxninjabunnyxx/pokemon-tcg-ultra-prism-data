@@ -1,0 +1,94 @@
+---
+id: sm5-104
+name: Eevee
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Colorless
+evolvesTo:
+- Vaporeon
+- Jolteon
+- Flareon
+- Sylveon
+- Espeon
+- Umbreon
+- Leafeon
+- Glaceon
+attacks:
+- name: Gnaw
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm5
+  name: Ultra Prism
+  series: Sun & Moon
+  printedTotal: 156
+  total: 178
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: UPR
+  releaseDate: 2018/02/02
+  updatedAt: 2019/02/19 23:25:00
+  images:
+    symbol: https://images.pokemontcg.io/sm5/symbol.png
+    logo: https://images.pokemontcg.io/sm5/logo.png
+number: '104'
+artist: Atsuko Nishida
+rarity: Common
+flavorText: Current studies show it can evolve into an incredible eight different
+  species of Pokémon.
+nationalPokedexNumbers:
+- 133
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm5/104.png
+  large: https://images.pokemontcg.io/sm5/104_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm5-104
+  updatedAt: 2023/09/15
+  prices:
+    reverseHolofoil:
+      low: 0.99
+      mid: 1.52
+      high: 4.05
+      market: 1.51
+      directLow: 1.23
+    normal:
+      low: 0.13
+      mid: 0.27
+      high: 1.22
+      market: 0.27
+      directLow: 0.25
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm5-104
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.2
+    lowPrice: 0.02
+    trendPrice: 0.14
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.05
+    reverseHoloLow: 1.0
+    reverseHoloTrend: 2.51
+    lowPriceExPlus: 0.02
+    avg1: 0.15
+    avg7: 0.18
+    avg30: 0.21
+    reverseHoloAvg1: 1.05
+    reverseHoloAvg7: 2.18
+    reverseHoloAvg30: 2.67
